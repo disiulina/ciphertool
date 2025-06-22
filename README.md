@@ -33,4 +33,4 @@ This is an encryption and decryption tool using the caesar chiper algorithm in t
 - Decrypt message: Enter the message in the textbox and the shift value (integer) then press the `Decrypt` button.
   
 # 📄 License
-This project is open-source and available under the [MIT License](https://).
+This project is open-source and available under the [MIT License](https://github.com/disiulina/ciphertool/blob/master/LICENSE).
